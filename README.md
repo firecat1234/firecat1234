@@ -1,5 +1,9 @@
-i'm an independent dev. i spend a lot of my free time poking around with python, mostly on computer vision and machine learning —experiments, benchmarks, and ideas. i love the intersection of statistics and computing. outside of tech, i'm into music, design, weird fiction & finding the best noodles in town.
+i'm an independent developer interested in NLP, reinforcement learning, computer vision, and vision-language-action models.
 
-my repos here are mostly unfinished drafts, lightweight tools, or vibe-coded tests. feel free to browse, & say hi if you want.
+most of my work uses Python, PyTorch, Transformers, OpenCV, MediaPipe, TypeScript, and Rust. i like projects at the intersection of statistics, language, perception, and interactive systems.
+
+the repositories here are experiments, working prototypes, and small tools. some are polished; others are honest works in progress. i try to document what works, what doesn't, and what i learn along the way.
+
+outside of tech, i'm into music, design, weird fiction, games, and finding the best noodles in town.
 
 thanks for stopping by!
