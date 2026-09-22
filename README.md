@@ -6,4 +6,9 @@ the repositories here are experiments, working prototypes, and small tools. some
 
 outside of tech, i'm into music, design, weird fiction, games, and finding the best noodles in town.
 
-thanks for stopping by!
+thanks for stopping by! 
+
+feel free to check out my projects: 
+https://cherryresearch.github.io/
+https://firecat1234.github.io/projects.html
+any feedback or contributions are welcomed :3 
